@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true newes from Ireland being the copie of a letter sent from Dublin, to a gentleman of good ranke, and now resident in this city. Wherein is declared many great overthrowes and defeates given to the rebels. Likewise the manner how a great castle called Carricke Mayne (within 6. myles of Dublin) was taken by the English, and the rebels put to death, man, woman, and child. Also a true intelligence that the rebels are beaten by Sir Henry Titchburne out of Dundalke.</title>
+            <author>W. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54158</idno>
+            <idno type="STC">Wing P131</idno>
+            <idno type="STC">ESTC R221388</idno>
+            <idno type="EEBO-CITATION">99832704</idno>
+            <idno type="PROQUEST">99832704</idno>
+            <idno type="VID">37178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2149:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true newes from Ireland being the copie of a letter sent from Dublin, to a gentleman of good ranke, and now resident in this city. Wherein is declared many great overthrowes and defeates given to the rebels. Likewise the manner how a great castle called Carricke Mayne (within 6. myles of Dublin) was taken by the English, and the rebels put to death, man, woman, and child. Also a true intelligence that the rebels are beaten by Sir Henry Titchburne out of Dundalke.</title>
+                  <author>W. P.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.P.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37178:1"/>
+            <pb facs="tcp:37178:1" rendition="simple:additions"/>
+            <p>The Laſt True Newes FROM IRELAND, Being the Copie of a Letter ſent from <hi>Dublin,</hi> to a Gentleman of good Ranke, and now Reſident in this City.</p>
+            <p>Wherein is declared many great overthrowes and Defeates given to the Rebels.</p>
+            <p>Likewiſe the manner how a great Ca<g ref="char:EOLhyphen"/>ſtle called <hi>Carricke Mayne</hi> (within 6. myles of <hi>Dublin</hi>) was taken by the Engliſh, and the Rebels put to death, Man, Woman, and Child.</p>
+            <p>Alſo a true intelligence that the Rebels are bea<g ref="char:EOLhyphen"/>ten by Sir <hi>Henry Titchbu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> out of <hi>Dundalke.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T.F.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37178:2"/>
+            <pb facs="tcp:37178:2"/>
+            <head>To my Worthy Friend, <hi>W. J.</hi> Eſquire in <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He laſt Letter I received from you was of the 8. of <hi>March,</hi> and if you have written any ſince they are un<g ref="char:EOLhyphen"/>received, Sir <hi>John Hoy</hi> his eldeſt Son <hi>William Hoy</hi> that was at the Lord Viſ<g ref="char:EOLhyphen"/>count <hi>Netterfield</hi> his houſe, was brought to my Lord <hi>Parſons,</hi> the 27. of <hi>March,</hi> Mr. <hi>Cad<g ref="char:EOLhyphen"/>well</hi> of <hi>Moorton,</hi> the Elder Brother to my late Landlord the Barber, comming out of the Countrey, and well mounted, with his Sword by his ſide, to his houſe heere in <hi>Dublin,</hi> was obſerved by ſome of our Souldiers, who pre<g ref="char:EOLhyphen"/>ſently followed him, and after ſome queſti<g ref="char:EOLhyphen"/>ons, drew out his Sword, which was all bloo<g ref="char:EOLhyphen"/>dy, whereupon they carried him before a Magiſtrate, whence he was ſent to the Coale and is like to be hanged, for it was conceived, that he had been at the murthering of ſome of the <hi>Engliſh,</hi> I wrote to you in my laſt Let<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:37178:3"/>that Colonell <hi>Reade</hi> and Mr. <hi>Mahone</hi> were Racked, he confeſſed that hee would have murthered both the Iuſtices, with man, wo<g ref="char:EOLhyphen"/>man and child, of the Engliſh, <hi>Reade,</hi> that he ſhould have been Lieutenant Generall of all <hi>Meath.</hi> and had 600. l. <hi>per annum</hi> Penſion, and 600. l. more for 2. Officers next under him, Alſo that the Lord <hi>Dunſaney,</hi> Sir <hi>John Netter<g ref="char:EOLhyphen"/>field, Dondall</hi> the Regiſter, who was Clerk of the Councell to the Rebels, Mr. <hi>Barnewell</hi> of <hi>Kilbrue,</hi> with others came into the Iuſtices, but <hi>Barnewell</hi> was Racked ſome 4. dayes ſince, and confeſſed that the Lord <hi>Dunſaney</hi> was one of the chiefeſt Actors in all the <hi>Pale,</hi> with much more I cannot yet learn, nor as ſome ſay to be made common as yet; Sir, I muſt uſe an old Proverbe, The Pitcher goeth ſo long to the Water, that at length it comes broken home, ſo it is with us now, for the 26. of <hi>March.</hi> Captaine <hi>Scouts</hi> Troope went out with ſome others (not to pray but to pillage you may ſay) who met with a great party of the Rebels, and followed them ſo cloſe, that they were enforced to take Mr. <hi>Welch</hi> his Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Carricke-maine,</hi> 6. Miles from <hi>Dublin,</hi> as we goe to <hi>Pooreſcourt</hi> and beſet it round, then ſent to the Lord Iuſtices to acquaint them by
+<pb facs="tcp:37178:3"/>a Poſte, whereupon Sir <hi>Simon Harcourt</hi> (a brave Gentleman) and one of the beſt Souldiers we had, and one Captayne <hi>Berry</hi> another brave Gentleman and wiſe, who undertooke with 1500. men to take the Caſtle, and went hence the 27. of <hi>March</hi> on the Kings day, after whom was ſent 2. <hi>Demy Culverings,</hi> but before they could be brought to the Caſtle, the Rebels dared our men, and one a brave daring Fellow upon a White horſe, came out of the Caſtle, and rode quite through our men, and then diſcharged his Piſtoll in deſpight of all our men. The Rebels were were (as it ſeemed very good marksmen, for they ſeldome or never made ſhot in vaine, but either killed or hurt, Captaine <hi>Berry</hi> was ſhot through the ſhoul<g ref="char:EOLhyphen"/>der, his Lievtennant ſhot dead, with divers others, at length our Ordnance arrived, and was placed in an Iriſh houſe, where no Com<g ref="char:EOLhyphen"/>mander could order the placing of them but Sir <hi>Symon Harcourt,</hi> and hee after ſome few ſhot made went behind the houſe to ſeeke his beſt advantage, and ſtooping down neare the ground was ſhot in the left ſhoulder with a ſlug of Leade (for it ſeemes the Rebels hath not ſtore of moulds to caſt Bulle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in, and
+<pb facs="tcp:37178:4"/>after the diſcharging of 22. Shot, a hole was made 15 foot above ground, but not to be entred, in which time one Lievtenant <hi>Huſe</hi> making choice of ſome few others with Hat<g ref="char:EOLhyphen"/>chets and Timber, broke open the Bawne gate, where they found 60 horſes bridled and ſadled, then Lievtenant <hi>Marret</hi> brake the Caſtle doore and entred, where they killed man, woman, and child, but one Welch wo<g ref="char:EOLhyphen"/>man, whoſe Brother was one of thoſe that en<g ref="char:EOLhyphen"/>tred the Caſtle, ſhe being a ſervant in Maſter <hi>Welch</hi> his houſe, yet could he not ſave her from ſome wounds, the number of them that were ſlaine in the Bawne or Caſtle were 260 or more.</p>
+            <p>The 28 of <hi>March</hi> Sir <hi>Symon Harcourt</hi> having made his Will (the day before) dyed at <hi>My<g ref="char:EOLhyphen"/>rian</hi> the Lord <hi>Fitz-Williams</hi> his houſe about 3. myles from <hi>Dublin</hi> in the afternoone; And I muſt now tell you, that in this Caſtle was a Prieſt, who fore ſeeing their loſſe, deſired to be put in an empty Pipe Caske, and the head to be put on againe, where he lay, but the ſlaughter ended, the Souldiers conceiving the Pipe had been full of good Beare, broached it, when finding it empty, they cut off the
+<pb facs="tcp:37178:4"/>Hoopes, and finding the Prieſt, cut him as ſmall as Fleſh to the Pot: So much for the Caſtle.</p>
+            <p>In my former Letter I alſo writ to you how Sir. <hi>Henry Ti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chburne</hi> had at <hi>Ardell</hi> ſlaine 300. men, with which he was not content, but marched preſently with 1000 men thence to <hi>Dundalke,</hi> where was at leaſt 5000. Rebels, and comming to the gate broke it open and entered, in which towne he tooke one Cul<g ref="char:EOLhyphen"/>vering, and another piece of Ordnance char<g ref="char:EOLhyphen"/>ged with Musker Bullets a foot &amp; halfe deepe from which the Gunner, for feare fled away to ſave his Life, and Sir <hi>Henry</hi> tooke them for his Service, and ſlew 1800. men therein and our Horſe chaſed them over the Water, to the <hi>Meyrie</hi> Caſtle three Miles beyond <hi>Dundalke,</hi> (the Farle of <hi>Devonſhire, Mountjoy</hi> built it) the reſt of the Rogues fled, but many were ſlaine in the purſuite, we loſt but a 11. men in that Service, and the chiefeſt man of note was Sir <hi>Faithfull Forteſcue,</hi> his ſecond Son, this was done the 29. of March, and Sir <hi>Henry Titchburne,</hi> remayneth ſtill at <hi>Dundalk,</hi> where he tooke much good pillage and Mo<g ref="char:EOLhyphen"/>ney, and a ſmall Barke laden with Victuals,
+<pb facs="tcp:37178:5"/>God ſend Sir <hi>Henry.</hi> well backe to <hi>Tredaugh,</hi> who ſent Sr. <hi>Sammuell Harcot,</hi> his Sonne with this Newes to the Lord Iuſtices to <hi>Dublin,</hi> I pray he goe not farther without 500. men at leaſt, the <hi>Newery</hi> being you know but 8. Miles beyond <hi>Dundalke,</hi> which is 16. Miles from <hi>Tredaugh Sir Simon Harcuts</hi> body was brought to my Neighbour <hi>Cap-Scon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> houſe, there to be inb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmed to be ſent to his houſe in <hi>Staffordſhire,</hi> but things fit for the ſervice not being to be had here in <hi>Dublin,</hi> he was buried in <hi>St. Patricks Church,</hi> I muſt likewiſe tell you your old Landlord <hi>Mr. Henry Aſhbourne</hi> is dead, he dyed ſix weekes ſince. ſo I reſt,</p>
+            <closer>
+               <signed>Your Servant <hi>W. P.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37178:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
